@@ -18,7 +18,7 @@ Implemented a fully automated multimedia pipeline in Google Cloud Platform to ge
 - Advanced debugging and optimization of FFmpeg and MP4Box commands.
 
 ## 📸 Screenshots / Demo :
-![MPEG-DASH Manifest](../assets/dash-video.png)
+![MPEG-DASH Manifest](../assets/)
 
 ## 🔗 Useful Links:
 - [GitHub Repository](https://github.com/ArielleSedoine/dash-project)
